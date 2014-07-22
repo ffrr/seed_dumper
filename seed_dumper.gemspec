@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = %q{http://github.com/kevTheDev/seed_dumper}
   s.require_paths = ["lib"]
-  s.add_runtime_dependency 'rails'
+  #s.add_runtime_dependency 'rails'
   s.rubygems_version = %q{1.3.7}
   s.summary = %q{{Seed Dumper for Rails}}
   s.test_files = [
