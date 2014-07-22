@@ -3,7 +3,7 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 require "base64"
-require 'seed_dumper'
+#require 'seed_dumper'
 
 Gem::Specification.new do |s|
   s.name = "seed_dumper"
